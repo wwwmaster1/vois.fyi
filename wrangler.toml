@@ -1,5 +1,4 @@
 #:schema node_modules/wrangler/config-schema.json
 name = "vois"
 compatibility_date = "2024-09-25"
-directory = "./dist"
-main = "dist/index.html"
+main = "./dist/index.html"
