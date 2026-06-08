@@ -4,3 +4,4 @@ compatibility_date = "2024-09-25"
 
 [pages]
 directory = "./dist" # Point this to your static assets folder
+main = "index.html"
